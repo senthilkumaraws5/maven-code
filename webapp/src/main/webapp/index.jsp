@@ -1,1 +1,1 @@
-Hello, World!
+<font color="blue">Hello, World!</font>
