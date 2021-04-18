@@ -1,1 +1,1 @@
-<font color="blue">Hello, World!</font>
+<h1 style= color:"blue">Hello, World!</h1>
